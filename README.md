@@ -1,12 +1,13 @@
 ### Test code for "Inverse Cloze Task (ICT) passage retrieval" used in the following works
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)
 - [GOING BEYOND TOKEN-LEVEL PRE-TRAINING FOR EMBEDDING-BASED LARGE-SCALE RETRIEVAL](https://openreview.net/forum?id=rkg-mA4FDr)
-<img src="ICT.PNG">
+<img src="./data/ICT.PNG">
 
 ### Experiment
 - Questions and passages from **SQuAD dataset**  are used for measuring passage retrieval performance.
 
 **Retrieval accuracy**
+
 | Rank | TF-IDF | ICT | TF-IDF + ICT |
 |--|--:|--|--:|
 |1| 49.24% | 25.91% |  57.77% |
