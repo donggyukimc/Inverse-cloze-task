@@ -14,7 +14,7 @@
 |2| 60.24% | 37.14% |  69.75% |
 |3| 66.41% | 43.36% |  75.21% |
 
-- As mentioned in many previous works, token matching based methods like **TF-IDF** and **BM25** are sill powerful for retrieval system. 
+- As mentioned in many previous works, token matching based methods like **TF-IDF** and **BM25** are still powerful for retrieval system. 
 - The result is promising considering ICT model used in this test can be much more improved.
 - Simple **ensemble of TF-IDF and ICT** show much more improved performance thanks to semantic alignment.
 
